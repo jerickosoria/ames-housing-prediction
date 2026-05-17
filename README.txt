@@ -21,11 +21,11 @@ We evaluated five distinct algorithms using Root Mean Squared Error (RMSE). Regu
 
 ### Model Insights & Evaluation Visualizations
 
-![Model Comparison](https://raw.githubusercontent.com/jerickosoria/ames-housing-prediction/main/images/model_comparison.png)
+![Model Comparison](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/ames-housing-prediction/main/images/model_comparison.png)
 
 *Figure 1: Comparison of model prediction error (RMSE) demonstrating how introducing mathematical penalties (Ridge/Lasso) stabilized standard linear regression.*
 
-![Predictions vs Actual](https://raw.githubusercontent.com/jerickosoria/ames-housing-prediction/main/images/predictions_vs_actual.png)
+![Predictions vs Actual](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/ames-housing-prediction/main/images/predictions_vs_actual.png)
 
 *Figure 2: Random Forest predicted values plotted against actual test sales prices, indicating a strong $R^2$ accuracy of ~0.92.*
 
@@ -33,4 +33,4 @@ We evaluated five distinct algorithms using Root Mean Squared Error (RMSE). Regu
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jerickosoria/ames-housing-prediction.git](https://github.com/jerickosoria/ames-housing-prediction.git)
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/ames-housing-prediction.git](https://github.com/YOUR_GITHUB_USERNAME/ames-housing-prediction.git)
